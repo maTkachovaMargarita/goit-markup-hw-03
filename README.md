@@ -1,2 +1,2 @@
 # goit-markup-hw-03
-Homework_1 create index.html
+Homework_3 flex-element
