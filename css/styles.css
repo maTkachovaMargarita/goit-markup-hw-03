@@ -90,6 +90,7 @@ img{
 /* Header */
 
 .header {
+    border-bottom: 1px solid #ECECEC;
 }
 
 .main-nav{
